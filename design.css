@@ -1,0 +1,71 @@
+body{
+  background-color: rgb(233, 233, 233);
+}
+
+*
+{
+
+  padding: 5px;
+  margin: 4px;
+}
+
+.menu-bar 
+{
+  background: rgb(139, 139, 139);
+  text-align: center;
+  border-radius: 180px;
+  border-color: black;
+  border-width: 5px;
+  border-style: solid;
+}
+
+.menu-bar ul
+{
+  display: inline-flex;
+  list-style: none;
+  color: #fff;
+  
+}
+
+.menu-bar ul li
+{
+  width: 130px;
+  margin: 25px;
+  padding: 5px;
+}
+
+.menu-bar ul li a
+{
+  font-family: 'Young Serif', serif;
+  text-decoration: none;
+  color: black;
+}
+
+.active, .menu-bar ul li:hover
+{
+  text-shadow: 5px 5px 10px black;
+}
+
+.lol-logo
+{
+  padding-top: 5px;
+  padding-right: 50px;
+  width: 100px;
+ 
+}
+
+.deft{
+  padding-top: 5px;
+
+}
+.EDG{
+  width:1200px;
+  padding-top: 5px;
+
+}
+.DMW{
+  width:1200px;
+  padding-top: 5px;
+}
+
+
